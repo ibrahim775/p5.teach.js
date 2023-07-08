@@ -112,7 +112,7 @@ Draws a vector V with origin (O_x, O_y) and optional dash rendering
 | O_x      | the x coordinate of the tail of the vector | number              | -       |
 | O_y      | the y coordinate of the tail of the vector | number              | -       |
 | V        | the head of the vector                     | p5.Vector           | -       |
-| dash     | the y-coordinate of the arrow's head       | boolean \| number[] | false   |
+| dash     | specifies if the vector's body is dashed   | boolean \| number[] | false   |
 
 ## createMovableCircle()
 
